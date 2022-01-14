@@ -5,3 +5,65 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+/* .travel-container-box {
+
+} */
+
+.travel-container-box-head {
+    height: 15vh;
+    opacity: 0.90;
+}
+
+.custom-d-flex {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.chosen-option {
+    border-bottom: 5px;
+    border-color: black;
+    border-style: solid;
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+}
+
+.travel-container-box-body {
+    height: 60vh;
+}
+
+.custom-fs {
+    font-size: 52px;
+    font-weight: 500;
+}
+
+.custom-bg-input {
+    background-color: rgb(229, 232, 232);
+    border-radius: 0%;
+}
+
+.form-control:focus {
+    background-color: rgb(229, 232, 232);
+    border-color: rgb(229, 232, 232);
+    box-shadow: 0 0 0 0.25rem rgb(229, 232, 232);
+}
+
+.btn-travel-custom {
+    height: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 0px;
+}
+
+.btn-color-custom {
+    background-color: rgb(229, 232, 232);
+}
+
+.btn-color-custom:focus {
+    box-shadow: 0 0 0 0.25rem rgb(123, 125, 125);
+}
