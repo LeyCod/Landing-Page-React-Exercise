@@ -1,0 +1,21 @@
+.custom-fs-safety {
+    font-size: 36px;
+    font-weight: 500;
+}
+
+.custom-fw {
+    font-weight: 500;
+}
+
+.companies-container {
+    background-color: aqua;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 64px;
+}
+
+.btn-companies-custom {
+    height: 50px;
+    border-radius: 0px;
+}
