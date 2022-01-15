@@ -1,0 +1,26 @@
+.navbar-dark {
+    background-color: black;
+    color: white;
+}
+
+.navbar-brand {
+    font-size: 25px;
+}
+
+.btn-register {
+    background-color: white;
+    border-radius: 20px;
+    color: black !important;
+    height: 36px;
+    text-align: center;
+}
+
+li, .btn-register {
+    height: 36px;
+    display: flex;
+    align-items: center;
+}
+
+.nav-link {
+    padding: 10px 12px !important;
+}
