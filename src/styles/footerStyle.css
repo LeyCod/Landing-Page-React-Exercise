@@ -1,0 +1,54 @@
+.footer-bg{
+    background-color: black;
+    color: white;
+    height: 863px;
+    padding: 64px;
+}
+
+.list-cont a {
+    text-decoration: none;
+    color: white;
+}
+
+.list-cont a :hover {
+    color: lightgray;
+}
+
+.faq-footer a, .logo-footer a {
+    text-decoration: none;
+    color: white;
+}
+
+.logo-footer {
+    height: 112px;
+    font-size: 25px;
+}
+
+.faq-footer {
+    height: 66px;
+}
+
+.footer-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.list-title {
+    font-size: 20px;
+}
+
+.footer-icons {
+    display: flex;
+}
+
+.ssmm-icons a {
+    color: white;
+}
+
+.btn-leng, .btn-location {
+    border: none;
+    color: white;
+    background: none;
+    padding: 10px 12px;
+}
