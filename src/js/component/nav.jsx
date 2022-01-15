@@ -5,11 +5,14 @@ const Nav = () => {
 	return (
 		<div>
 			<nav className="navbar navbar-expand-lg navbar-dark">
-				<div className="container-fluid justify-content-center">
-					<div className="d-flex">
+				<div className="container-fluid d-flex px-5">
+					<div className="flex-fill">
 						<a className="navbar-brand" href="#">
 							Uber
 						</a>
+					</div>
+
+					<div>
 						<button
 							className="navbar-toggler"
 							type="button"
